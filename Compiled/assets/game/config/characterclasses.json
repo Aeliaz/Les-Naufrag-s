@@ -1,0 +1,145 @@
+[
+    {
+      code: "roturier1",
+      traits: [],
+      gear: [
+        { type: "item", code: "clothes-upperbody-woolen-shirt" },
+        { type: "item", code: "clothes-upperbodyover-commoner-coat" },
+        { type: "item", code: "clothes-hand-surgeon" },
+        { type: "item", code: "clothes-waist-linen-rope" },
+        { type: "item", code: "clothes-lowerbody-surgeon" },
+        { type: "item", code: "clothes-foot-survivor" }
+      ]
+    },
+    {
+      code: "roturier2",
+      traits: [],
+      gear: [
+        { type: "item", code: "clothes-face-survivor" },
+        { type: "item", code: "clothes-upperbody-scribe" },
+        { type: "item", code: "clothes-shoulder-peasent-kaftan" },
+        { type: "item", code: "clothes-lowerbody-alchemist" },
+        { type: "item", code: "clothes-foot-scribe" }
+      ]
+    },
+    {
+      code: "roturier3",
+      traits: [],
+      gear: [
+        { type: "item", code: "clothes-upperbody-peasent-shirt" },
+        { type: "item", code: "clothes-upperbodyover-commoner-coat" },
+        { type: "item", code: "clothes-hand-surgeon" },
+        { type: "item", code: "clothes-waist-linen-rope" },
+        { type: "item", code: "clothes-lowerbody-dirty-linen-trousers" },
+        { type: "item", code: "clothes-foot-blackguard-shoes" }
+      ]
+    },
+    {
+      code: "fermier",
+      traits: ["myope","sale","bruyant","eleveur","forcedelanature","paysan"],
+      gear: [
+        { type: "item", code: "clothes-head-straw-hat" },
+        { type: "item", code: "clothes-shoulder-alchemist" },
+        { type: "item", code: "clothes-upperbody-malefactor-shirt" },
+        { type: "item", code: "clothes-lowerbody-shepherd-pants" },
+        { type: "item", code: "clothes-lowerbody-dirty-linen-trousers" },
+        { type: "item", code: "clothes-foot-jailor-boots" }
+      ]
+    },
+    {
+      code: "chasseur",
+      traits: ["vif","visiondaigle","connaissancedelanature","chasseur","estomacleger","faiblard","stresse", "douillet"],
+      gear: [
+        { type: "item", code: "clothes-head-hunter-cape" },
+        { type: "item", code: "clothes-shoulder-hunter-poncho" },
+        { type: "item", code: "clothes-upperbody-hunter-shirt" },
+        { type: "item", code: "clothes-upperbodyover-marketeer" },
+        { type: "item", code: "clothes-lowerbody-marketeer" },
+        { type: "item", code: "clothes-foot-hunter-boots" },
+        { type: "item", code: "clothes-hand-hunter-gloves" },
+        { type: "item", code: "clothes-waist-linen-rope" },
+        { type: "item", code: "clothes-face-hunter-mask" }
+      ]
+    },
+    {
+      code: "forgeron",
+      traits: ["maindefer","torsedacier","essayeur","geologue","piedlourd","bruyant","estomactroue"],
+      gear: [
+        { type: "item", code: "clothes-shoulder-blacksmith-apron" },
+        { type: "item", code: "clothes-upperbody-marketeer" },
+        { type: "item", code: "clothes-lowerbody-miner" },
+        { type: "item", code: "clothes-foot-peasent-slippers" },
+        { type: "item", code: "clothes-hand-heavy-leather-gloves" },
+        { type: "item", code: "clothes-waist-heavy-tool-belt" }
+      ]
+    },
+    {
+      code: "bucheron",
+      traits: ["forcebrute","bonoeil","mainlourde","bruyant"],
+      gear: [
+        { type: "item", code: "clothes-upperbody-survivor" },
+        { type: "item", code: "clothes-upperbodyover-malefactor-tunic" },
+        { type: "item", code: "clothes-lowerbody-survivor" },
+        { type: "item", code: "clothes-foot-peasent-slippers" },
+        { type: "item", code: "clothes-neck-acorn-amulet" },
+        { type: "item", code: "clothes-waist-peasant-strap" }
+      ]
+    },
+    {
+      code: "combattant",
+      traits: ["coupdemaitre","veteran","estomacsansfond","encombre", "myope"],
+      gear: [
+        { type: "item", code: "clothes-upperbodyover-huntsmans-tunic" },
+        { type: "item", code: "clothes-upperbody-great-steppe-shirt" },
+        { type: "item", code: "clothes-lowerbody-malefactor-trousers" },
+        { type: "item", code: "clothes-foot-soldier-boots" },
+        { type: "item", code: "clothes-waist-blackguard-belt" },
+        { type: "item", code: "clothes-arm-leather-bracers" }
+      ]
+    },
+    {
+      code: "alchimiste",
+      traits: ["connaissancedelanature","inodore","adroit","faible","stresse"],
+      gear: [
+        { type: "item", code: "clothes-upperbody-blackguard-shirt" },
+        { type: "item", code: "clothes-upperbodyover-surgeon" },
+        { type: "item", code: "clothes-lowerbody-merchant-pants" },
+        { type: "item", code: "clothes-foot-worn-leather-boots" },
+        { type: "item", code: "clothes-hand-clockmaker-wristguard" }
+      ]
+    },
+    {
+      code: "charpentier",
+      traits: ["forcebrute","piedlourd","mainlourde","maindefer","endurant"],
+      gear: [
+        { type: "item", code: "clothes-shoulder-clockmaker-apron" },
+        { type: "item", code: "clothes-upperbody-raw-hide-mantle" },
+        { type: "item", code: "clothes-lowerbody-warm-woolen-pants" },
+        { type: "item", code: "clothes-foot-metalcap-boots" },
+        { type: "item", code: "clothes-hand-fur-gloves" }
+      ]
+    },
+    {
+      code: "ingenieur",
+      traits: ["maindefer","connaissancetechnologie","bruyant","myope"],
+      gear: [
+        { type: "item", code: "clothes-upperbodyover-clockmaker-tunic" },
+        { type: "item", code: "clothes-upperbody-clockmaker-shirt" },
+        { type: "item", code: "clothes-lowerbody-clockmaker-pants" },
+        { type: "item", code: "clothes-foot-marketeer" },
+        { type: "item", code: "clothes-hand-surgeon" },
+        { type: "item", code: "clothes-waist-clockmaker-belt" }
+      ]
+    },
+    {
+      code: "tailleur",
+      traits: ["adroit","raccomodeur","faible", "stresse","gentil","propre"],
+      gear: [
+        { type: "item", code: "clothes-shoulder-jord-robe" },
+        { type: "item", code: "clothes-upperbody-pearl-shirt" },
+        { type: "item", code: "clothes-lowerbody-tailor-trousers" },
+        { type: "item", code: "clothes-foot-high-leather-boots" },
+        { type: "item", code: "clothes-waist-tailor-belt" }
+      ]
+    }
+]

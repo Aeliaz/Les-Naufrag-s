@@ -1,0 +1,8 @@
+[
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/surface_skeleton",
+      "path": "/server/behaviors/7/drops/0",
+      "side": "Server"
+    }
+]

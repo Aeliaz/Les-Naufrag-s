@@ -1,0 +1,26 @@
+[
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/ork",
+      "path": "/server/behaviors/8/dropsByType/ork-normal/1",
+      "side": "Server"
+    },
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/ork",
+      "path": "/server/behaviors/8/dropsByType/ork-normal/0",
+      "side": "Server"
+    },
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/ork",
+      "path": "/server/behaviors/8/dropsByType/ork-alternate_1/1",
+      "side": "Server"
+    },
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/ork",
+      "path": "/server/behaviors/8/dropsByType/ork-alternate_1/0",
+      "side": "Server"
+    }
+]

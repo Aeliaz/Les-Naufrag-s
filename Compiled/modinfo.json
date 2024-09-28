@@ -1,0 +1,25 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Les Nauvragés - Classes",
+  "Version": "1.1.7",
+  "NetworkVersion": null,
+  "Description": "Classes personalisées et patch/Addon pour différents mods pour le serveur Serious RP Les Nauvragés",
+  "Website": "https://discord.gg/JJZzudBXDR",
+  "CoreMod": false,
+  "ModID": "nauvrageclasses",
+  "Authors": [ "Tisma, Teflon, Zolkenn" ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": { "game": "",
+		                "survival": "",
+                    "heatretention":"1.0.2",
+                    "rustandrot": "0.0.7",
+                    "fantasycreatures": "0.7.1",
+                    "primitivesurvival": "3.6.4", 
+                    "wool": "1.0.1",
+                    "thebasics": "4.0.1"
+                  }
+}

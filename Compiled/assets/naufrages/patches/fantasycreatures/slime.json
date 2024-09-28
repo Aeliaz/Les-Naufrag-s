@@ -1,0 +1,8 @@
+[
+  {
+    "op": "remove",
+    "file": "fantasycreatures:entities/land/slime",
+    "path": "/server/behaviors/8/dropsByType",
+    "side": "Server"
+  }
+]

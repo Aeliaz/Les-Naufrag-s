@@ -1,0 +1,8 @@
+[
+  {
+    "op": "remove",
+    "file": "fantasycreatures:entities/land/dragon",
+    "path": "/server/behaviors/9/dropsByType/dragon-red/0",
+    "side": "Server"
+  }
+]

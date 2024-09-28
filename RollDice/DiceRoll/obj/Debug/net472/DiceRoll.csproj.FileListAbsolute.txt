@@ -1,0 +1,14 @@
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\bin\Debug\net472\DiceRoll.dll
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\bin\Debug\net472\DiceRoll.pdb
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\bin\Debug\net472\thebasics.dll
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\bin\Debug\net472\Vintagestory.dll
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\bin\Debug\net472\VintagestoryAPI.dll
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\bin\Debug\net472\VintagestoryLib.dll
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.csproj.AssemblyReference.cache
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.AssemblyInfoInputs.cache
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.AssemblyInfo.cs
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.csproj.Up2Date
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.dll
+C:\Users\march\Desktop\RollDice\RollDice\DiceRoll\obj\Debug\net472\DiceRoll.pdb

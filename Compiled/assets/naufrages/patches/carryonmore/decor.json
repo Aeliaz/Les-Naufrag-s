@@ -1,0 +1,453 @@
+[
+  {
+    "file": "decor:blocktypes/kitchendecor/breadbox",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ 0.0625, 0, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/storage/bonestorage",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ 0.0625, 0, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/storage/fatstorage",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ 0.0625, 0, 0 ],
+        "rotation": [ 0, 180, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/storage/mushroomstorage",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ 0.0625, 0, 0 ],
+        "rotation": [ 0, 180, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/breadbasket",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.5,
+        "translation": [ 0, -0.4, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "scale": 0.4,
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/breadbasket2",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.5,
+        "translation": [ 0, -0.45, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/tables/sidetable*",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.75,
+        "translation": [ 0, -0.25, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/tables/warmwoodsidetable",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.75,
+        "translation": [ 0, -0.3, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/tables/woodtable",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ -0.35, -0.3, 0 ],
+        "rotation": [ 0, 0, 90 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/tables/brasstable",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ -0.35, -0.3, 0 ],
+        "rotation": [ 0, 0, 90 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/tables/gothictable",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ 0, -0.3, 0.35 ],
+        "rotation": [ 0, -90, 90 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/linenbasket",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.75,
+        "translation": [ 0, 0, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/pot",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.2,
+        "translation": [ 0, -0.1, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/teaset",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.2,
+        "scale": 0.4,
+        "translation": [ 0, -0.1, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/brassteaset",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.2,
+        "translation": [ 0, -0.125, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/glasstray",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.2,
+        "translation": [ 0, -0.15, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/picnicbasket",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.5,
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/gardendecor/washingtub",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.75,
+        "translation": [ 0.0625, 0, 0 ],
+        "rotation": 0,
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/seating/cottagecorestool",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.5,
+        "translation": [ 0, -0.3, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/seating/stool",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.5,
+        "translation": [ 0, -0.5, 0.1 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/seating/gothfootrest*",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.5,
+        "translation": [ 0, -0.4, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/seating/fabricchair",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.75,
+        "translation": [ 0, -0.25, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/seating/fancygothicchair*",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.75,
+        "translation": [ 0, -0.3, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/seating/victorianloungechair",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.75,
+        "translation": [ 0, -0.25, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/kitchendecor/jug",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "interactDelay": 0.2,
+        "translation": [ 0, -0.15, 0.1 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {
+            "animation": "carryon:holdlight"
+          }
+        }
+      }
+    }
+  },
+  {
+    "file": "decor:blocktypes/mushroomcloche",
+    "side": "Server",
+    "op": "add",
+    "path": "/behaviors/-",
+    "value": {
+      "name": "Carryable",
+      "properties": {
+        "translation": [ 0.0625, 0, 0 ],
+        "rotation": [ 0, 270, 0 ],
+        "slots": {
+          "Hands": {}
+        }
+      }
+    }
+  }
+]

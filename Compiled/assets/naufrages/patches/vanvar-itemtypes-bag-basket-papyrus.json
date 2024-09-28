@@ -1,0 +1,10 @@
+[
+    {
+      "file": "vanvar:itemtypes/reed/basket.json",
+      "op": "replace",
+      "path": "/attributes/backpack/quantitySlots",
+      "value": 1,
+      "side": "Server",
+      "dependsOn": [{"modid":"vanvar"}]
+    }
+  ]

@@ -1,0 +1,27 @@
+[
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/cavegoblin",
+      "path": "/server/behaviors/8/dropsByType/cavegoblin-normal",
+      "side": "Server"
+    },
+    {
+      "op": "replace",
+      "file": "fantasycreatures:entities/land/cavegoblin",
+      "path": "/server/behaviors/8/dropsByType/cavegoblin-lessarmored/2/quantity",
+      "value": { "avg": 0.5, "var": 0 },
+      "side": "Server"
+    },
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/cavegoblin",
+      "path": "/server/behaviors/8/dropsByType/cavegoblin-lessarmored/1",
+      "side": "Server"
+    },
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/cavegoblin",
+      "path": "/server/behaviors/8/dropsByType/cavegoblin-lessarmored/0",
+      "side": "Server"
+    }
+]

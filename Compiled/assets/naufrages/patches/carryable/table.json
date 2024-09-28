@@ -1,0 +1,18 @@
+[
+    {
+        "file": "game:blocktypes/wood/table",
+        "side": "Server",
+        "op": "add",
+        "path": "/behaviors/-",
+        "value": {
+            "name": "Carryable",
+            "properties": {
+                "translation": [ -0.35, -0.2, 0 ],
+                "rotation": [ 0, 0, 90 ],
+                "slots": {
+                    "Hands": {}
+                }
+            }
+        }
+    }
+]

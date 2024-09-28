@@ -1,0 +1,10 @@
+{
+		ingredientPattern: "LLL	L_L	LLL",
+		ingredients: {
+			"L": { type: "item", code: "game:papyrustops", quantity: 3 }
+		},
+		name: "stationarybasket",
+		width: 3,
+		height: 3,
+		output: { type: "block", code: "game:stationarybasket-east", attributes: { type: "papyrus" }  }
+	}

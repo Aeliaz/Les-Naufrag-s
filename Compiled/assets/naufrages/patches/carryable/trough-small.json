@@ -1,0 +1,19 @@
+[
+    {
+        "file": "game:blocktypes/wood/trough-small",
+        "side": "Server",
+        "op": "add",
+        "path": "/behaviors/-",
+        "value": {
+            "name": "Carryable",
+            "properties": {
+                "interactDelay": 0.75,
+                "translation": [ 0.0625, 0, 0 ],
+                "rotation": [ 0, 270, 0 ],
+                "slots": {
+                    "Hands": {}
+                }
+            }
+        }
+    }
+]

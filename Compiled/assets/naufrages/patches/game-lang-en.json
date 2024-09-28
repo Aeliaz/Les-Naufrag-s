@@ -1,0 +1,8 @@
+[
+  {
+    "op": "add",
+    "path": "/itemdesc-quiver",
+    "value": "Can store up to 20 arrows !",
+    "file": "game:lang/en.json"
+  }
+]

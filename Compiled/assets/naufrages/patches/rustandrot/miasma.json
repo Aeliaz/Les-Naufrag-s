@@ -1,0 +1,8 @@
+[
+  {
+    "op": "remove",
+    "file": "rustandrot:entities/land/rotten/miasma",
+    "path": "/server/behaviors/9/dropsByType/miasma/0",
+    "side": "Server"
+  }
+]

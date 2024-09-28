@@ -1,0 +1,14 @@
+[
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/skeleton-deserter",
+      "path": "/server/behaviors/7/drops/2",
+      "side": "Server"
+    },
+    {
+      "op": "remove",
+      "file": "fantasycreatures:entities/land/skeleton-deserter",
+      "path": "/server/behaviors/7/drops/0",
+      "side": "Server"
+    }
+]

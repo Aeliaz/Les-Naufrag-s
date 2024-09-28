@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework> <!-- Cible .NET Framework 4.7.2 -->
+    <LangVersion>7.3</LangVersion> <!-- Forcer l'utilisation de C# 7.3 -->
+    <ImplicitUsings>disable</ImplicitUsings> <!-- Désactiver les using globaux -->
+    <Nullable>disable</Nullable> <!-- Désactiver Nullable -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="TheBasics">
+      <HintPath>libs/thebasics.dll</HintPath>
+    </Reference>
+    <Reference Include="VintagestoryAPI">
+      <HintPath>libs/VintagestoryAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Vintagestory">
+      <HintPath>libs/Vintagestory.dll</HintPath>
+    </Reference>
+        <Reference Include="Vintagestorylib">
+      <HintPath>libs/VintagestoryLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
