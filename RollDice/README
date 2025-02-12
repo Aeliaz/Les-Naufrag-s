@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------------------------------------
+Use the “.roll 1d20” command to make a dice roll.
+Sends the result through TheBasics' "/it" command
+
+Works with any number.
+-----------------------------------------------------------------------------------------------------------
+Multi-lang ! (v0.3.0)
+Francais, English, Українська, Русский, Español, 中文, Duits
+-----------------------------------------------------------------------------------------------------------
+Usage: .roll 2d6 or .roll 3d20.
+First value = number of dice.
+Second = number of faces.
+-----------------------------------------------------------------------------------------------------------
+By : LesNaufragesVs, French Serious RP Community
+https://discord.gg/K8CpRDF37p 
+https://buymeacoffee.com/lesnaufragesvs
+
+
+v0.3.0-1 : add Multi-lang support and requieredOnClient.
