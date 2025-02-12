@@ -1,9 +1,0 @@
-[
-	{
-		"file": "heatretention:recipes/grid/oakum.json",
-		"side": "Server",
-		"op": "replace",
-		"path": "/0/ingredients/F/quantity",
-		"value": 4
-	}
-]

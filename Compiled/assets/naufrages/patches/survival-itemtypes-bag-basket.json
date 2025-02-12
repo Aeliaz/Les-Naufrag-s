@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/attributes/backpack/quantitySlots",
-    "value": 1,
-    "file": "game:itemtypes/bag/basket.json",
-    "side": "Server"
-  }
-]

@@ -1,8 +1,0 @@
-[
-    {
-      "op": "remove",
-      "file": "primitivesurvival:entities/land/livingdead",
-      "path": "/server/behaviors/9/dropsByType/*-normal/0",
-      "side": "Server"
-    }
-]

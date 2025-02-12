@@ -1,8 +1,0 @@
-[
-  {
-    "op": "remove",
-    "path": "/1",
-    "file": "game:recipes/grid/stationarybasket.json",
-    "side": "Server"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/itemdesc-quiver",
-    "value": "Peut contenir jusqu'à 20 flèches !",
-    "file": "game:lang/fr.json"
-  }
-]
