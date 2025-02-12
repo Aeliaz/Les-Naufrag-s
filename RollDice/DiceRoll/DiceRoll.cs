@@ -2,18 +2,19 @@ using System;
 using Vintagestory.API.Client;
 using Vintagestory.API.Common;
 using Vintagestory.API.Config;
+using thebasics.ModSystems.ProximityChat.Models;
 
 namespace DiceRollAddon
 {
     public class RollCommand : ModSystem
     {
         private ICoreClientAPI capi;
-
+        
         public override void StartClientSide(ICoreClientAPI api)
         {
             base.StartClientSide(api);
             capi = api;
-
+            api.Assets.Reload(AssetCategory.lang);
             capi.ChatCommands
                 .Create("roll")
                 .WithDescription("Make a dice roll")
@@ -26,7 +27,7 @@ namespace DiceRollAddon
 
             if (string.IsNullOrEmpty(diceInput))
             {
-                return TextCommandResult.Error(Lang.Get("diceRoll.usage"));
+                return TextCommandResult.Error(Lang.Get("dicerolladdon:usage"));
             }
 
             int diceSides, totalRoll;
@@ -34,14 +35,13 @@ namespace DiceRollAddon
 
             if (!RollDice(diceInput, out diceSides, out totalRoll, out individualRolls))
             {
-                return TextCommandResult.Error(Lang.Get("diceRoll.invalidFormat"));
+                return TextCommandResult.Error(Lang.Get("dicerolladdon:invalidFormat"));
             }
 
             IClientPlayer player = capi.World.Player;
             string playerName = player.PlayerName;
 
-            string localizedMessage = Lang.Get(
-                "diceRoll.resultMessage",
+            string localizedMessage = Lang.Get("dicerolladdon:resultMessage",
                 playerName,
                 diceInput,
                 totalRoll,
