@@ -1,14 +1,12 @@
 {
     "type": "code",
     "modid": "dicerolladdon",
-    "name": "DiceRoll - TheBasics Addon",
-    "description": "Un addon pour ajouter une commande de jet de dés à TheBasics.",
+    "name": "DiceRoll - A TheBasics Addon",
+    "description": "An addon to add a dice roll client command to TheBasics.",
     "authors": [ "Aeliaz" ],
-    "version": "0.0.1",
-    "dependency": {
-      "modid": "thebasics",
-      "required": true
-    }
-
+    "version": "0.2.0",
+    "dependency": [
+      {"modid": "thebasics","required": true}
+    ]
   }
   
